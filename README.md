@@ -2,7 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![project screenshot](https://github.com/JuanSamuel1/Timestamp-Microservice/blob/main/timestamp-microservice.PNG)
+![project screenshot](https://github.com/JuanSamuel1/Exercise-Tracker/blob/main/exercise-tracker.PNG)
 
 Creating this project is part of my backend web development learning in a course by freecodecamp. Exercise Tracker allows people to create an account and keep track of exercises that need to be done.
 You can see the demo of the microservice in this link: https://exercise-tracker-juan.glitch.me
